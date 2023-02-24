@@ -1,5 +1,13 @@
-tex
-=== 
+LaTeX Files 
+=========== 
 
 Collection of LaTeX templates and source code that I've used for personal
 documents such as handouts and notes. 
+
+My main LaTeX style file is called `muwasifk.sty` and is found in the home
+directory. In order to use it, place it into the same directory as your main 
+tex file and add
+
+    \includepackage{muwasifk} 
+
+to your main preamble. 
